@@ -1,1 +1,1 @@
-# Riproduzione di un sito di streaming web al fine di comprendere la gestione server side di utenti e contenuti da mostrare, l'interfaccia utente è resa al minimo visto che non è quello lo scopo della riproduzione in oggetto.
+Riproduzione di un sito di streaming web al fine di comprendere la gestione server side di utenti e contenuti da mostrare, l'interfaccia utente è resa al minimo visto che non è quello lo scopo della riproduzione in oggetto.
